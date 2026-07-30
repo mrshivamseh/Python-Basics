@@ -1,0 +1,14 @@
+1. Class = Blueprint (Naksha)
+
+2. Object = Class se bana real object
+
+3. Constructor = __init__()
+   Object bante hi automatically call hota hai.
+
+4. self = Current object ko refer karta hai.
+
+5. Method = Class ke andar function.
+
+6. Object.method() = Method call
+
+7. self.variable = Instance Variable

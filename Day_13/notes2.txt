@@ -1,0 +1,15 @@
+class Employee:                    # 👈 1. Class
+
+    def __init__(self,name,salary): # 👈 2. Constructor
+        self.name = name
+        self.salary = salary
+
+    def details(self):              # 👈 3. Method
+        print("Employee Name:", self.name)
+        print("Employee Salary:", self.salary)
+
+Employee1 = Employee("Shivam",250000)  # 👈 4. Object
+Employee2 = Employee("Rahul",30000)    # 👈 4. Object
+
+Employee1.details()               # 👈 5. Method Call
+Employee2.details()               # 👈 5. Method Call
