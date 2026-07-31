@@ -12,4 +12,4 @@ Python automatically call karta hai:
 obj.__str__()
 4. f-string
 f"{variable}"
-Use hota hai variables ko string ke andar print karne ke liye.
+Use hota hai variables ko string ke andar print karne ke liye.c
