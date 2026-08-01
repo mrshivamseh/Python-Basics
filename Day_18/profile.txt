@@ -1,0 +1,7 @@
+Name: Shivam
+Goal: Become a Python Developer
+ Age: 25
+ Age: 25
+ city: Delhi
+ Age: 25
+ city: Delhi
